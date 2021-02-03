@@ -1,6 +1,7 @@
 # Machine-Translation-Using-Attention-Mechanism
 
-* To implement an Encoder and Decoder architecture with attention using Bahdanau Attention Mechanism
+* To implement an Encoder and Decoder architecture with attention using three different scoring function
+<a href="https://arxiv.org/pdf/1508.04025.pdf">https://arxiv.org/pdf/1508.04025.pdf</a>
 <a href="https://arxiv.org/pdf/1409.0473.pdf">https://arxiv.org/pdf/1409.0473.pdf</a>
 * In Global attention, there are 3 types of scoring functions.
  I have created 3 models for each scoring function**
